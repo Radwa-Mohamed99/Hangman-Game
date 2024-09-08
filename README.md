@@ -36,10 +36,10 @@ Welcome to the Hangman Game! 🎉 This classic word guessing game will challenge
 Here are two videos demonstrating the hangman drawing process and the man surviving:
 
 1. **Man Gets Hanged**:
+
   
 
-
-https://github.com/user-attachments/assets/88a1b87c-ee4c-4a44-8e82-2fbdb1681392
+https://github.com/user-attachments/assets/02f0b038-29d9-4ef0-ba93-5b8fed2bb1a8
 
 
 2. **Man Survives**:
