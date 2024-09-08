@@ -55,7 +55,7 @@ void DrawHangman(int tries) {
          printf("  +---+\n");
          printf("  |   |\n");
          printf("  O   |\n");
-         printf(" /|\\ |\n");
+         printf(" /|\\  |\n");
          printf("      |\n");
          printf("      |\n");
          printf("=========\n");
@@ -65,8 +65,8 @@ void DrawHangman(int tries) {
          printf("  +---+\n");
          printf("  |   |\n");
          printf("  O   |\n");
-         printf(" /|\\ |\n");
-         printf(" / \\ |\n");
+         printf(" /|\\  |\n");
+         printf(" / \\  |\n");
          printf("      |\n");
          printf("=========\n");
          break;
